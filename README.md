@@ -26,4 +26,5 @@ Assume the ISP gave out a base network of 192.168.1.0, you as the young network 
 8. Host Device Configurations.
 9. Test and Verifying Network Communication.
 ## Network Topology Created
+![CiscoSOHO](https://user-images.githubusercontent.com/69791359/233854266-3b1fdb2f-9b6f-4565-854b-9e308eeb7f2a.png)
 
